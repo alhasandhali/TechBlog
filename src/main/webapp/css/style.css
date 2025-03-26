@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+body {
+	background: #ffffff;
+}
+
+.bg-my-color {
+	background: #1e88e5 !important;
+}
+
+.bg-my-color2 {
+	background: #eeeeee !important;
+}
+
+.bg-my-color3 {
+	background: #1976d2 !important;
+}
+
+.my-margin-right-5x {
+	margin-right: 5px;
+}
+
+.my-margin-right-7x {
+	margin-right: 7px;
+}
+
+.my-margin-right-10x {
+	margin-right: 10px;
+}
+
+.my-mt-5x {
+	margin-top: 5px;
+}
+
+.my-mt-10x {
+	margin-top: 10px;
+}
+
+.my-mt-15x {
+	margin-top: 15px;
+}
+
+.my-mt-20x {
+	margin-top: 20px;
+}
+
+.my-ml-5x {
+	margin-left: 5px;
+}
+
+.my-ml-10x {
+	margin-left: 10px;
+}
+
+.my-ml-15x {
+	margin-left: 15px;
+}
+
+.my-ml-20x {
+	margin-left: 20px;
+}
+
+.my-ml-50x {
+	margin-left: 50px;
+}
+
+.my-mb-5x {
+	margin-bottom: 5px;
+}
+
+.my-mb-10x {
+	margin-bottom: 10px;
+}
+
+.my-mb-20x {
+	margin-bottom: 20px;
+}
+
+.my-border-color {
+	border: 1px solid #dfe5f0;
+}
+
+.my-border-color2 {
+	border: 1px solid #1e88e5 !important;
+}

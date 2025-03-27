@@ -6,7 +6,7 @@ public class SingletonConnection {
 	private static final String DB_HOST = "localhost";
 	private static final String DB_NAME = "techblog";
 	private static final String DB_USERNAME = "root";
-	private static final String DB_PASSWORD = "*ShoShi#321";
+	private static final String DB_PASSWORD = "***********";
 	private static final String DB_URL = "jdbc:mysql://" + DB_HOST + "/" + DB_NAME;
 
 	private static Connection connection;
